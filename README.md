@@ -363,7 +363,7 @@ Then start Jupyter:
 jupyter notebook
 ```
 
-Make sure `data.csv` is available in the notebook's working directory.
+Make sure `dataset.csv` is available in the notebook's working directory.
 
 ---
 

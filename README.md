@@ -84,3 +84,36 @@ Heart-Disease-Prediction/
 ├── data.csv
 ├── heart_disease_prediction.ipynb
 └── README.md
+
+
+
+
+How to Run
+Using Google Colab
+Download or open the notebook.
+Upload data.csv to the Colab environment.
+Open heart_disease_prediction.ipynb.
+Run the notebook cells sequentially.
+Using Jupyter Notebook
+
+Install the required libraries:
+
+pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+
+Then open the notebook:
+
+jupyter notebook
+
+Make sure data.csv is available in the notebook's working directory.
+
+Disclaimer
+
+This project is for educational and demonstration purposes only.
+
+It is not a medical diagnostic system and should not be used to make real-world medical decisions.
+
+Author
+
+Prateek Satpathi
+
+GitHub: @Ram-2200
